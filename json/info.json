@@ -1,6 +1,9 @@
 {
   "section-one":{
 "page":"example"
+  },
+  "section-two":{
+    "page":"example"
   }
 
 }
